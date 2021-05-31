@@ -1,4 +1,4 @@
-displayName =  [c/B22222:Rogue Lineage Races]
+displayName =  [c/B22222:RL Races]
 author = Washington4/Martypotty
 modReferences = MrPlagueRaces
 includeSource = true

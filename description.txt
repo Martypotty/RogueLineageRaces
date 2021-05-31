@@ -1,0 +1,55 @@
+This is a terraria parody of Rogue Lineage:
+The races in this mod aren't exactly balanced;
+Rogue lineage itself has had unbalanced and powerful/weak races, so the races in this mod were made with a very decent amount of power.
+I might consider making a version of this where the races are more closely balanced with the races of the Authentic mod, but it probably won't happen for awhile. 
+It might not be rogue lineage themed if I do [DW when it comes out, maybe?], but that's not something you should count on happening.
+
+[c/606060:If this is updated, it'll likely be for tweaks /]
+[c/606060:balancing. An additional race is not as likely.]
+
+[c/3ABC7A:Races]
+Ashiin
+Gaian
+Castellan
+Rigan
+Dullahan
+Haseldan
+
+^ They're balanced between eachother, Not with the Authentic Races.
+
+Note; They are decently different from their rogue counterparts.
+Despite this, you will still see exaggerations or similarities
+between the races of this mod and the races of Rogue Lineage.
+
+Let me know how I can improve these if you'd like. [Martypotty#9781 is my discord.]
+
+[c/FFFF00:Credit for what/who helped with the races in]
+[c/FFFF00:this mod;]
+
+MrPlague's tutorial on how to make a race & the Exampliar code
+SM [Creator of the Steel race mod] for letting his race's code be read. Because I was able to look at it, it made me understand a couple more things about the mod and how to add a little more. His description also inspired how I should make this one.
+Also credit to SM for helping me out with a way to cancel out negative health regen! [Like Poison!]
+Pog(Karma) and Shaggy Overlord for answering a couple of my questions in the Discord when I was wondering about how to do something.
+My Discord friends Soppy and Dowellz for helping me see if it worked well on Multiplayer.
+
+[c/606060:{If this mod frustrates you, please keep in mind]
+[c/606060:that these people weren't involved directly in the]
+[c/606060:production, and probably had little idea of this mod.]
+[c/606060:Don't go to them, contact Martypotty#9781 instead.}]
+
+[c/B266FF:If the main mod didn't work, this would've been]
+[c/B266FF:difficult / probably wouldn't have happened by me.]
+[c/B266FF:Credits for the "MrPlague's Authentic Races" mod.]
+(I'm not 100% sure as to how I should credit the original mod exactly, but here it is!)
+
+-MrPlague (spriter, animator, and coder)
+-Mirsario (helped with cleaning up MrPlague's spaghetti code and did 90% of the custom race support)
+-SnowMelon (adjusted some of the audio files)
+-CrocWithShadws (betatester)
+-Dragons Tired (betatester)
+-Blaquestone (gameplay balance)
+-Fallout_Patriot (gameplay balance, betatester)
+-FullyVoided, suggester of the Kobold Race
+-Pinsel, suggester and one of the creators of the Fluftrodon Race
+
+

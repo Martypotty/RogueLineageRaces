@@ -1,0 +1,6 @@
+displayName =  [c/B22222:Rogue Lineage Races]
+author = Washington4/Martypotty
+modReferences = MrPlagueRaces
+includeSource = true
+version = 0.1
+sortAfter = MrPlagueRaces

@@ -3,9 +3,14 @@ The races in this mod aren't exactly balanced;
 Rogue lineage itself has had unbalanced and powerful/weak races, so the races in this mod were made with a very decent amount of power.
 I might consider making a version of this where the races are more closely balanced with the races of the Authentic mod, but it probably won't happen for awhile. 
 It might not be rogue lineage themed if I do [DW when it comes out, maybe?], but that's not something you should count on happening.
+Any lore heard from the Race's lore pages may be incorrect or at most somewhat true / speculation.
+
+The sounds you may hear from certain abilities are used in Rogue Lineage. If they are infact copyrighted and disallowed for this mod to have, then I will remove them.
+{If you know for certain that the sounds are copyrighted (or at least the ones within the mod), then contact me on discord (martypotty#9781) or on youtube.}
 
 [c/606060:If this is updated, it'll likely be for tweaks /]
 [c/606060:balancing. An additional race is not as likely.]
+[c/606060:..Except maybe right now.]
 
 [c/3ABC7A:Races]
 Ashiin
@@ -14,8 +19,16 @@ Castellan
 Rigan
 Dullahan
 Haseldan
+Construct
+Kasparan
+Fischeran
+Navaran
+Dzin
+Vind
 
-^ They're balanced between eachother, Not with the Authentic Races.
+
+^ They're balanced between eachother, Not with the Authentic Races. New races are at risk of an imbalance, so please send me feedback if you feel like one race is much stronger and or weaker compared to the others.
+Please do not ask me to add Dev races or Khei varients of a race. I'm not doing that right now and may not do that at all.
 
 Note; They are decently different from their rogue counterparts.
 Despite this, you will still see exaggerations or similarities

@@ -1,7 +1,7 @@
-displayName =  [c/4169e1:RL Races (More races!)]
+displayName =  [c/00AEE6:RL Races (Tenebrous Chaos Update!)]
 author = Washington4/Martypotty
 modReferences = MrPlagueRaces
 includeSource = true
-version = 0.200
+version = 0.298
 sortAfter = MrPlagueRaces
 homepage = https://docs.google.com/document/d/1-3h88TxU5d9PO08rCCwdZHDeqzr3EUa12B7uAJVkiLk/edit?usp=sharing

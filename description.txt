@@ -8,7 +8,7 @@ The races in this addon are decently different from their Rogue counterparts.
 Despite this fact, you will likely see some extreme exaggerations or similarities between most of the races of this mod and the races of Rogue Lineage. For example Gaian is tanky, Rigan has high mana regen, and Ashiin has multiple class-based stats. Also 15 out of the 16 races this addon adds have a unique ability and offer somewhat differing things!
 The [c/3ABC7A:races] names are listed here! Scroll down if you'd like. It also lists some brief details about what has been done to them in this update.
 
-There might not be anymore serious updates in 1.3 [Or at least outside of fixes or balancing.] Knowing me though, there is a chance that I may try to come back to updating this with more content while it is on 1.3; Especially if I struggle with or cannot completely learn how to do certain things on 1.4.
+There is a chance for there not be anymore content updates in 1.3 for this race addon [Or at least outside of fixes or balancing.] Knowing me though, there is a chance that I may try to come back to updating this with more content while it is on 1.3; Especially if I struggle with or cannot completely learn how to do certain things on 1.4.
 
 
 [c/606060:If this is updated, it'll likely be for tweaks /]
@@ -35,8 +35,8 @@ Vind
 [c/913831:I might undo my endurance rework if I find a way to]
 [c/913831:cap it off or heavily reduce all the external gains.]
 [c/913831:However at the moment I do want to keep it this way.]
-^ The races are only balanced between eachother and not with the Authentic Races. New races are at risk of an imbalance, so please send me feedback if you feel like one race is much stronger and or weaker compared to the others, and if I can I'll try to balance it out more.
-I am POTENTIALLY planning on adding the rest of the races; or at least maybe 2-5 more of them.. Justtt not right now. I already have concepts at the ready, though even if I do go through with them they will be unlikely to come out for awhile. [Unlike my first update which happened about a month later, lol.]
+^ The races are only balanced between eachother and not with the Authentic Races. New (and now old) races are at risk of an imbalance, so please send me feedback if you feel like any of the races are much stronger and or weaker compared to the others. If I can I'll try to balance it out between them some more.
+I might be planning on adding the rest of the races; or at least maybe 2-5 more.. Justtt not right now. I already have a basic concept ready for each of them, though even if I do go through with adding them into the mod it's still unlikely that they'll come out soon. [Unlike my first update which happened about a month later, lol.]
 
 
 
@@ -80,5 +80,7 @@ I might reconsider making a version of this where the races are more closely bal
 The sounds you may hear from certain abilities are used in Rogue Lineage. If they are infact copyrighted and disallowed for this mod to have, then I will remove them.
 Only the Morvid sound is mostly home made. I took a non-copyrighted crow sound and went with it.
 {If you know for certain that the sounds are copyrighted (or at least the ones within the mod), then contact me on discord (martypotty#9781) or on youtube.}
+
+Technically on a hiatus currently outside of new content or balancing/fixes.
 
 You're not crazy! I moved some stuff down here.

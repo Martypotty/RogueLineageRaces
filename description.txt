@@ -20,7 +20,7 @@ Gaian (Reworked endurnace)
 Scroom 
 MetalScroom (Had fixes and reworked endurance.)
 Castellan
-Rigan
+Rigan (Changed Health drain from ST and lowered normal Mana regen)
 Dullahan (Had a fix? And nerfed slightly.)
 Haseldan (Recovery movement buff and FS max endurance nerf.)
 Dinakeri (Fixedup passive deaggro. ER grants more aggro.)

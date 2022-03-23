@@ -1,4 +1,4 @@
-﻿using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using System.Collections.Generic;
 using Terraria;
@@ -25,10 +25,11 @@ namespace RogueLineageRaces.Common.Races.Rigan
 		
 		public override string RaceAbilityName => "Shock Tsunami (Active)";
 		public override string RaceAbilityDescription1 => "At any time you can intensify your mana regen to function almost 24/7 in exchange for health / debuffs.";
-		public override string RaceAbilityDescription2 => "Alternatively, it can be held down to grant you constant unstable gravity at a strong cost of health.";
+		public override string RaceAbilityDescription2 => "Alternatively, it can be held down to grant you constant unstable gravity at a very strong cost of health.";
 		public override string RaceAbilityDescription3 => "Shock Tsunami prevents fall damage. It's recommended to upgrade your health before trying to hover.";
+		public override string RaceAbilityDescription4 => "The amount of health you will lose overtime is equal to 60-90 damage, however hp regening buffs from things such as Campfires can help mediate this a little.";
 		
-		public override string RaceManaRegenerationDisplayText => "[c/34EB93:+85]";
+		public override string RaceManaRegenerationDisplayText => "[c/34EB93:+60]";
 		public override string RaceRunAccelerationDisplayText => "[c/34EB93:+10%]";
 		public override string RaceMiningSpeedDisplayText => "[c/34EB93:-30%]";
 		public override string RaceJumpSpeedDisplayText => "[c/34EB93:+90%]";
@@ -41,7 +42,7 @@ namespace RogueLineageRaces.Common.Races.Rigan
 			var modPlayer = player.GetModPlayer<MrPlagueRaces.MrPlagueRacesPlayer>();
 			if (modPlayer.RaceStats)
 			{
-				player.manaRegenBonus += 85;
+				player.manaRegenBonus += 60;
 				player.pickSpeed -= 0.30f;
 				player.runAcceleration += 0.1f;
 				player.jumpSpeedBoost += 0.9f;
@@ -72,11 +73,23 @@ namespace RogueLineageRaces.Common.Races.Rigan
 					   player.maxRunSpeed += 0.5f;
 				   }
 			 }
-				 }				   
-			}
-				
-				
+				 }		
 
+                   if (player.HasBuff(70))
+			 {
+                   if (player.HasBuff(144))
+				   {
+				   
+				   if (player.HasBuff(164))
+                   {
+					   player.lifeRegen -= 5;
+				   }
+				   
+				   }				   
+			 }
+				
+				
+			}
 		}
 		
 			public override void ProcessTriggers(Player player, Mod mod)
@@ -98,10 +111,9 @@ namespace RogueLineageRaces.Common.Races.Rigan
 					player.AddBuff(33, 240);
 					player.AddBuff(164, 3);
 					player.AddBuff(11, 240);
-					player.AddBuff(70, 350);
-					player.AddBuff(144, 3);
+					player.AddBuff(70, 600);
+					player.AddBuff(144, 90);
 					player.AddBuff(8, 3);
-					player.AddBuff(68, 140);
 					player.AddBuff(48, 1);
                 }
 				}

@@ -1,47 +1,46 @@
 This is a Terraria parody of Rogue Lineage:
 The races in this mod aren't exactly balanced; except maybe between each other.
-Rogue Lineage itself has had unbalanced and powerful/weak races, so the races in this mod were made with a very decent amount of power.
-I might reconsider making a version of this where the races are more closely balanced with the races of the Authentic mod, but it probably won't happen for awhile. 
-It might not be Rogue Lineage themed if I do [DW when it comes out, maybe?], but that's not something you should count on happening.
-Any lore heard from the Race's lore pages may be incorrect or at most somewhat true / speculation. (There's also tiny bits of new "lore" related to terraria stuff but that's just made up for fun.)
+Any lore heard from the Race's lore pages may be incorrect or at most somewhat true / speculation. (There're also tiny bits of new "lore" related to Terraria stuff but that's just made up for fun.)
 
+Mod Homepage leads to a Google document about recent and past changes/additions*
 
-This is my final time adding anything in 1.3 [Or at least this is potentially the last time.]
+The races in this addon are decently different from their Rogue counterparts.
+Despite this fact, you will likely see some extreme exaggerations or similarities between most of the races of this mod and the races of Rogue Lineage. For example Gaian is tanky, Rigan has high mana regen, and Ashiin has multiple class-based stats. Also 15 out of the 16 races this addon adds have a unique ability and offer somewhat differing things!
+The [c/3ABC7A:races] names are listed here! Scroll down if you'd like. It also lists some brief details about what has been done to them in this update.
 
-The sounds you may hear from certain abilities are used in Rogue Lineage. If they are infact copyrighted and disallowed for this mod to have, then I will remove them.
-Only the Morvid sound is mostly home made. I took a crow sound and went with it.
-{If you know for certain that the sounds are copyrighted (or at least the ones within the mod), then contact me on discord (martypotty#9781) or on youtube.}
+There might not be anymore serious updates in 1.3 [Or at least outside of fixes or balancing.] Knowing me though, there is a chance that I may try to come back to updating this with more content while it is on 1.3; Especially if I struggle with or cannot completely learn how to do certain things on 1.4.
+
 
 [c/606060:If this is updated, it'll likely be for tweaks /]
-[c/606060:balancing. An additional race is not as likely]
-[c/606060:now, but still not technically impossible.]
+[c/606060:balancing. An additional race is not as likely.]
 
 [c/3ABC7A:Races]
 Ashiin
-Gaian
-Scroom  (New!)
-MetalScroom [Differences in stats/hybrid abilities.] (New!)
+Gaian (Reworked endurnace)
+Scroom 
+MetalScroom (Had fixes and reworked endurance.)
 Castellan
 Rigan
-Dullahan
-Haseldan
-Dinakeri  (New!)
-Construct
-Kasparan
-Fischeran
+Dullahan (Had a fix? And nerfed slightly.)
+Haseldan (Recovery movement buff and FS max endurance nerf.)
+Dinakeri (Fixedup passive deaggro. ER grants more aggro.)
+Construct (Had a minor fix and a very, very small buff.)
+Kasparan (Slight nerf on Endurance gains.)
+Fischeran (Small nerf+buff on AWS + max-endurance nerf.)
 Navaran
-Morvid  (New!)
-Dzin
+Morvid 
+Dzin (Decently reworked/Somewhat major changes. Might alter.)
 Vind
 
+[c/913831:I might undo my endurance rework if I find a way to]
+[c/913831:cap it off or heavily reduce all the external gains.]
+[c/913831:However at the moment I do want to keep it this way.]
+^ The races are only balanced between eachother and not with the Authentic Races. New races are at risk of an imbalance, so please send me feedback if you feel like one race is much stronger and or weaker compared to the others, and if I can I'll try to balance it out more.
+I am POTENTIALLY planning on adding the rest of the races; or at least maybe 2-5 more of them.. Justtt not right now. I already have concepts at the ready, though even if I do go through with them they will be unlikely to come out for awhile. [Unlike my first update which happened about a month later, lol.]
 
-^ They're balanced between eachother, not with the Authentic Races. New races are at risk of an imbalance, so please send me feedback if you feel like one race is much stronger and or weaker compared to the others, and if I can I'll try to balance it out more.
-Please do not ask me to add Dev races or Khei varients of a race. I'm not doing that right now and may not do that at all. Despite me asking this, I did love Dullahan and I was biased towards that one particular "khei" race. That's probably obvious by now, though! It's been in every icon! Haha!
 
-Note; They are decently different from their Rogue counterparts.
-Despite this, you may still see extreme exaggerations or similarities between the races of this mod and the races of Rogue Lineage.
 
-Let me know how I can improve these if you'd like. [Martypotty#9781 is my discord.]
+Let me know how I can improve these if you'd like! [Martypotty#9781 is my discord.]
 
 [c/FFFF00:Credit for what/who helped with the races]
 [c/FFFF00:in this mod;]
@@ -74,3 +73,12 @@ My Discord friends Soppy and Dowellz for helping me see if it worked well on Mul
 -Pinsel, suggester and one of the creators of the Fluftrodon Race
 
 
+-------------------------------------------
+Note; Rogue Lineage itself had unbalanced and powerful/weak races, so the races in this mod were made with a very decent amount of power.
+I might reconsider making a version of this where the races are more closely balanced with the races of the Authentic mod, but it probably won't happen for awhile, and it might not be Rogue Lineage themed if I do [DW, maybe?] but that's not something you should completely count on happening.
+
+The sounds you may hear from certain abilities are used in Rogue Lineage. If they are infact copyrighted and disallowed for this mod to have, then I will remove them.
+Only the Morvid sound is mostly home made. I took a non-copyrighted crow sound and went with it.
+{If you know for certain that the sounds are copyrighted (or at least the ones within the mod), then contact me on discord (martypotty#9781) or on youtube.}
+
+You're not crazy! I moved some stuff down here.
